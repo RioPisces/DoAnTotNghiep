@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "E:/laptrinh/node/createReactApp/tiktok"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "createReactApp"
+	}
+}
